@@ -16,8 +16,8 @@
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "WebGL, WebGPU, AI/ML" },
-        { "key": "Hobbies.Hardware", "value": "Mechanical Keyboards" }
+        { "key": "Learning", "value": "Python, ML" },
+        { "key": "Hobbies", "value": "Rock climbing" }
       ]
     },
     {
