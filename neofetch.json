@@ -4,16 +4,14 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
-        { "key": "Location", "value": "{{location}}" },
         { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "{{company}}" }
+        { "key": "Uptime", "value": "{{uptime}}" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "Cursor, VSCode, Neovim" }
+        { "key": "Languages", "value": "R, MySQL" },
+        { "key": "IDE", "value": "RStudio, VSCode" }
       ]
     },
     {
@@ -26,8 +24,7 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{email}}" },
-        { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "Website", "value": "https://github.com/{{username}}" }
       ]
     }
   ],
